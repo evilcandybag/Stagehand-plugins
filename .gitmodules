@@ -1,0 +1,6 @@
+[submodule "Stagehand-controls"]
+	path = Stagehand-controls
+	url = git@github.com:evilcandybag/Stagehand-controls.git
+[submodule "Stagehand-TRPG"]
+	path = Stagehand-TRPG
+	url = git@github.com:evilcandybag/Stagehand-TRPG.git

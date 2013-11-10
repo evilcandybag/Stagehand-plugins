@@ -7,7 +7,7 @@
   <name>Stagehand-plugins</name>
   <description>Parent project for the varioius plugin projects for Stagehand</description>
   <modules>
-  	<module>../Stagehand-TRPG</module>
-  	<module>../Stagehand-controls</module>
+  	<module>./Stagehand-TRPG</module>
+  	<module>./Stagehand-controls</module>
   </modules>
 </project>
