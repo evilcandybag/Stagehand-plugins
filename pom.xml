@@ -9,5 +9,6 @@
   <modules>
   	<module>./Stagehand-TRPG</module>
   	<module>./Stagehand-controls</module>
+  	<module>./Stagehand-effect-examples</module>
   </modules>
 </project>
