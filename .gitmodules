@@ -7,3 +7,6 @@
 [submodule "Stagehand-Ambience"]
 	path = Stagehand-Ambience
 	url = git@github.com:evilcandybag/Stagehand-Ambience.git
+[submodule "Stagehand-effect-examples"]
+	path = Stagehand-effect-examples
+	url = git@github.com:evilcandybag/Stagehand-effect-examples.git
