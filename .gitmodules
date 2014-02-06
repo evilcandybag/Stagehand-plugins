@@ -10,3 +10,6 @@
 [submodule "Stagehand-effect-examples"]
 	path = Stagehand-effect-examples
 	url = git@github.com:evilcandybag/Stagehand-effect-examples.git
+[submodule "Stagehand-compound-effect"]
+	path = Stagehand-compound-effect
+	url = git@github.com:evilcandybag/Stagehand-compound-effect.git

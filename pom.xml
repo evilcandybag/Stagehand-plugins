@@ -12,5 +12,6 @@
   	<module>./Stagehand-effect-examples</module>
 
   	<module>./Stagehand-Ambience</module>
+  	<module>./Stagehand-compound-effect</module>
   </modules>
 </project>
