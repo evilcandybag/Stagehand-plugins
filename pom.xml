@@ -13,5 +13,6 @@
 
   	<module>./Stagehand-Ambience</module>
   	<module>./Stagehand-compound-effect</module>
+  	<module>../Stagehand-core</module>
   </modules>
 </project>
